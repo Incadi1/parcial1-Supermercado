@@ -111,6 +111,13 @@ body {
 .ig-navItem:hover {
     color: #5a4103;
 }
+
+.ig-items{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:center;
+}
 /*---------------------------------*/
 
 /*Main*/
